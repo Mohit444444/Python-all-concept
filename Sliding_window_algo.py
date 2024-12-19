@@ -24,7 +24,6 @@ def maxSum(arr, k):
 
 	return max_sum
 
-
 arr = [16, 12, 9, 19, 11, 8]
 k = 3
 print(maxSum(arr, k))
